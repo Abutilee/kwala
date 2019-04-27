@@ -1,0 +1,12 @@
+apt install update
+apt install upgrade
+apt install python2
+apt install python3
+apt install git
+git clone http://github.com/abuti-silos/WhatsApp.com
+cd WhatsApp
+ls
+chamd +× WhatsApp.py
+python3 WhatsApp.py
+type victim id/phone number
+run
